@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Toy2 ERP/1.0.0": {
+        "runtime": {
+          "Toy2 ERP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Toy2 ERP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

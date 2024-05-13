@@ -1,0 +1,28 @@
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\bin\Debug\net8.0-windows\Toy2 ERP.exe
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\bin\Debug\net8.0-windows\Toy2 ERP.deps.json
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\bin\Debug\net8.0-windows\Toy2 ERP.runtimeconfig.json
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\bin\Debug\net8.0-windows\Toy2 ERP.dll
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\bin\Debug\net8.0-windows\Toy2 ERP.pdb
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\NewOrder.g.cs
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\ProductManagement.g.cs
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\StorageManagement.g.cs
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP_MarkupCompile.cache
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP_MarkupCompile.lref
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\NewOrder.baml
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\ProductManagement.baml
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\StorageManagement.baml
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.g.resources
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.AssemblyInfoInputs.cache
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.AssemblyInfo.cs
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.csproj.CoreCompileInputs.cache
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.sourcelink.json
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.dll
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\refint\Toy2 ERP.dll
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.pdb
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.genruntimeconfig.cache
+C:\Users\Troels\source\repos\Toy2 ERP\Toy2 ERP\obj\Debug\net8.0-windows\ref\Toy2 ERP.dll

@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\models\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\models\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\viewmodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\viewmodels\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\viewmodels\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\viewmodels\\boxsets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\boxsets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\viewmodels\\connectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\connectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\views\\neworder.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\views\\neworder.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\views\\storagemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\views\\storagemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\views\\neworder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\views\\neworder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\views\\neworder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\views\\neworder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\views\\productmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\views\\productmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\views\\productmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\views\\productmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\views\\storagemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\views\\storagemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|c:\\users\\troels\\source\\repos\\toy2 erp\\toy2 erp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 385,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Models\\DataHandler.cs",
+              "RelativeDocumentMoniker": "Toy2 ERP\\Models\\DataHandler.cs",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Models\\DataHandler.cs",
+              "RelativeToolTip": "Toy2 ERP\\Models\\DataHandler.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowKMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:14:52.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductManagement.xaml",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\ProductManagement.xaml",
+              "RelativeDocumentMoniker": "Toy2 ERP\\Views\\ProductManagement.xaml",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\ProductManagement.xaml",
+              "RelativeToolTip": "Toy2 ERP\\Views\\ProductManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T11:42:34.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\NewOrder.xaml",
+              "RelativeDocumentMoniker": "Toy2 ERP\\Views\\NewOrder.xaml",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\NewOrder.xaml",
+              "RelativeToolTip": "Toy2 ERP\\Views\\NewOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T11:41:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Toy2 ERP\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\MainWindow.xaml",
+              "RelativeToolTip": "Toy2 ERP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T10:19:11.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Toy2 ERP\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Toy2 ERP\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:19:09.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\ViewModels\\Orders.cs",
+              "RelativeDocumentMoniker": "Toy2 ERP\\ViewModels\\Orders.cs",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\ViewModels\\Orders.cs",
+              "RelativeToolTip": "Toy2 ERP\\ViewModels\\Orders.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:21:03.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\ViewModels\\Customer.cs",
+              "RelativeDocumentMoniker": "Toy2 ERP\\ViewModels\\Customer.cs",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\ViewModels\\Customer.cs",
+              "RelativeToolTip": "Toy2 ERP\\ViewModels\\Customer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:19:41.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoxSets.cs",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\ViewModels\\BoxSets.cs",
+              "RelativeDocumentMoniker": "Toy2 ERP\\ViewModels\\BoxSets.cs",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\ViewModels\\BoxSets.cs",
+              "RelativeToolTip": "Toy2 ERP\\ViewModels\\BoxSets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:21:19.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\ViewModels\\Products.cs",
+              "RelativeDocumentMoniker": "Toy2 ERP\\ViewModels\\Products.cs",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\ViewModels\\Products.cs",
+              "RelativeToolTip": "Toy2 ERP\\ViewModels\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:20:05.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connectors.cs",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\ViewModels\\Connectors.cs",
+              "RelativeDocumentMoniker": "Toy2 ERP\\ViewModels\\Connectors.cs",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\ViewModels\\Connectors.cs",
+              "RelativeToolTip": "Toy2 ERP\\ViewModels\\Connectors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:20:47.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StorageManagement.xaml",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\StorageManagement.xaml",
+              "RelativeDocumentMoniker": "Toy2 ERP\\Views\\StorageManagement.xaml",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\StorageManagement.xaml",
+              "RelativeToolTip": "Toy2 ERP\\Views\\StorageManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T11:42:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewOrder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\NewOrder.xaml.cs",
+              "RelativeDocumentMoniker": "Toy2 ERP\\Views\\NewOrder.xaml.cs",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\NewOrder.xaml.cs",
+              "RelativeToolTip": "Toy2 ERP\\Views\\NewOrder.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:46:24.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\App.xaml",
+              "RelativeDocumentMoniker": "Toy2 ERP\\App.xaml",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\App.xaml",
+              "RelativeToolTip": "Toy2 ERP\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T12:22:30.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductManagement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\ProductManagement.xaml.cs",
+              "RelativeDocumentMoniker": "Toy2 ERP\\Views\\ProductManagement.xaml.cs",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\ProductManagement.xaml.cs",
+              "RelativeToolTip": "Toy2 ERP\\Views\\ProductManagement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:02:24.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StorageManagement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\StorageManagement.xaml.cs",
+              "RelativeDocumentMoniker": "Toy2 ERP\\Views\\StorageManagement.xaml.cs",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\StorageManagement.xaml.cs",
+              "RelativeToolTip": "Toy2 ERP\\Views\\StorageManagement.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:02:19.386Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 203,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\NewOrder.xaml",
+              "RelativeDocumentMoniker": "Toy2 ERP\\Views\\NewOrder.xaml",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Views\\NewOrder.xaml",
+              "RelativeToolTip": "Toy2 ERP\\Views\\NewOrder.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T15:20:50.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Toy2 ERP\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\MainWindow.xaml",
+              "RelativeToolTip": "Toy2 ERP\\MainWindow.xaml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAWwCIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T15:22:18.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
