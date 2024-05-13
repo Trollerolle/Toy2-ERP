@@ -1096,11 +1096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Toy2 ERP.csproj",
+      "projectUniqueName": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\Toy2 ERP.csproj",
       "projectName": "Toy2 ERP",
-      "projectPath": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\Toy2 ERP.csproj",
+      "projectPath": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\Toy2 ERP.csproj",
       "packagesPath": "C:\\Users\\Troels\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Troels\\source\\repos\\Toy2 ERP\\Toy2 ERP\\obj\\",
+      "outputPath": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Troels\\AppData\\Roaming\\NuGet\\NuGet.Config",

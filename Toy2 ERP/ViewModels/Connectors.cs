@@ -9,7 +9,7 @@ namespace Toy2_ERP.ViewModels
 	public class Connectors : Products
 	{
 		public static List<Connectors> StorageList = new List<Connectors>();
-
+		public double StorageValue { get; set; }
 		public Connectors()
 		{
 		}
@@ -26,6 +26,13 @@ namespace Toy2_ERP.ViewModels
 		public void UpdateProductCost(double newCost)
 		{
 			Cost = newCost;
+		}
+		public void UpdateStorageValue(double newStorageValue)
+		{
+			foreach (var item in StorageList)
+			{
+				StorageValue += item.Cost * item.Amount;
+			}
 		}
 	}
 }
