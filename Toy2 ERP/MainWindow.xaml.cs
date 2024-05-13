@@ -20,6 +20,7 @@ namespace Toy2_ERP
 		public MainWindow()
 		{
 			InitializeComponent();
+
 		}
 
 		private void OpretOrdre_Clicked(object sender, RoutedEventArgs e)
@@ -27,22 +28,7 @@ namespace Toy2_ERP
 			DataContext = new Order();
 		}
 
-		private void SeLagerStatus_Clicked(object sender, RoutedEventArgs e)
-		{
-			DataContext = new Connectors();
-		}
-
 		private void Indkøb_Clicked(object sender, RoutedEventArgs e)
-		{
-			DataContext = new Connectors();
-		}
-
-		private void SeBestillinger_Clicked(object sender, RoutedEventArgs e)
-		{
-			DataContext = new Order();
-		}
-
-		private void LagerOptælling_Clicked(object sender, RoutedEventArgs e)
 		{
 			DataContext = new Connectors();
 		}

@@ -7,13 +7,10 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Views\NewOrder.xaml.cs">
+    <Compile Update="Views\LagerStatusIndkøbOptælling.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Views\ProductManagement.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="Views\StorageManagement.xaml.cs">
+    <Compile Update="Views\BestillingerOpretOrdre.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -21,13 +18,10 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Views\NewOrder.xaml">
+    <Page Update="Views\LagerStatusIndkøbOptælling.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Views\ProductManagement.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Views\StorageManagement.xaml">
+    <Page Update="Views\BestillingerOpretOrdre.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
