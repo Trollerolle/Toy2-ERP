@@ -66,3 +66,45 @@ D:\Datamatiker\Toy2 ERP ny\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\Best
 D:\Datamatiker\Toy2 ERP ny\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\LagerStatusIndkøbOptælling.g.cs
 D:\Datamatiker\Toy2 ERP ny\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\BestillingerOpretOrdre.baml
 D:\Datamatiker\Toy2 ERP ny\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\LagerStatusIndkøbOptælling.baml
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Toy2 ERP.exe
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Toy2 ERP.deps.json
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Toy2 ERP.runtimeconfig.json
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Toy2 ERP.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Toy2 ERP.pdb
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.csproj.AssemblyReference.cache
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\BestillingerOpretOrdre.g.cs
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\LagerStatusIndkøbOptælling.g.cs
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP_MarkupCompile.cache
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP_MarkupCompile.lref
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\BestillingerOpretOrdre.baml
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Views\LagerStatusIndkøbOptælling.baml
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.g.resources
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.AssemblyInfoInputs.cache
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.AssemblyInfo.cs
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.csproj.CoreCompileInputs.cache
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.sourcelink.json
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.csproj.CopyComplete
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\refint\Toy2 ERP.dll
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.pdb
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\Toy2 ERP.genruntimeconfig.cache
+C:\Users\karga\Desktop\LK\Toy2\Toy2-ERP\Toy2 ERP\obj\Debug\net8.0-windows\ref\Toy2 ERP.dll

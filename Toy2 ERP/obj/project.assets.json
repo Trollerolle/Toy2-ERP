@@ -1091,19 +1091,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Troels\\.nuget\\packages\\": {}
+    "C:\\Users\\karga\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\Toy2 ERP.csproj",
+      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Toy2\\Toy2-ERP\\Toy2 ERP\\Toy2 ERP.csproj",
       "projectName": "Toy2 ERP",
-      "projectPath": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\Toy2 ERP.csproj",
-      "packagesPath": "C:\\Users\\Troels\\.nuget\\packages\\",
-      "outputPath": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\obj\\",
+      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Toy2\\Toy2-ERP\\Toy2 ERP\\Toy2 ERP.csproj",
+      "packagesPath": "C:\\Users\\karga\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Toy2\\Toy2-ERP\\Toy2 ERP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Troels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\karga\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1123,11 +1123,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1158,7 +1153,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
