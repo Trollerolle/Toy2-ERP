@@ -33,8 +33,6 @@ namespace Toy2_ERP
 		private void Indkøb_Clicked(object sender, RoutedEventArgs e)
 		{
 			DataContext = new Connectors();
-			Connectors connector = new Connectors("Basis", 45.0, 1234, 5678);
-            Connectors.StorageList.Add(connector);
         }
 	}
 }
