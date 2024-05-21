@@ -10,7 +10,7 @@
 	<Grid Background="White">
 		<Border BorderBrush="#FF0B232F"
 				BorderThickness="2"
-				Margin="90,270,101,140">
+				Margin="330,270,101,140">
 			<TextBox TextWrapping="Wrap"
 					 VerticalAlignment="Stretch"
 					 HorizontalAlignment="Stretch"
@@ -19,13 +19,18 @@
 		</Border>
 		<Border BorderBrush="#FF0B232F"
 				BorderThickness="2"
-				Margin="90,30,101,188">
+				Margin="330,30,101,188">
 			<TextBlock TextWrapping="Wrap"
 					   VerticalAlignment="Stretch"
 					   HorizontalAlignment="Stretch"
 					   Text="AddedProducts"
 					   Name="AddedProducts" />
 		</Border>
+        <TextBox HorizontalAlignment="Left" Margin="26,56,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Indtast kundenr" HorizontalAlignment="Left" Margin="26,25,0,0" VerticalAlignment="Top"/>
+        <Button Content="Tilføj boxset" HorizontalAlignment="Left" Margin="26,79,0,0" VerticalAlignment="Top" IsEnabled="False" />
+        <Button Content="Afslut ordre" HorizontalAlignment="Left" Margin="26,104,0,0" VerticalAlignment="Top" />
 
-	</Grid>
+
+    </Grid>
 </UserControl>
