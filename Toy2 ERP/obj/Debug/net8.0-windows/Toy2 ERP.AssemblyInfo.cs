@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Toy2 ERP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ff4d8f5f753ddf47a147ec040dd0ff1fe1f268d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92aafe64120dfc43b9dce938bf95ffd1719fcf9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Toy2 ERP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Toy2 ERP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
