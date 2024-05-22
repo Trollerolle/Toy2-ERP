@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Toy2_ERP.ViewModels;
 
 namespace Toy2_ERP.Views
 {
@@ -23,6 +24,7 @@ namespace Toy2_ERP.Views
         public LagerStatusIndkøbOptælling()
         {
             InitializeComponent();
+            DataContext = new Connectors();
         }
     }
 }

@@ -7,11 +7,32 @@ using System.Threading.Tasks;
 using Toy2_ERP.ViewModels;
 using OfficeOpenXml;
 using OfficeOpenXml.Style;
+using System.Collections.ObjectModel;
 
 namespace Toy2_ERP.Models
 {
 	public class DataHandler
 	{
+		//private string dataFileName;
+
+		//public string DataFileName
+		//{
+		//	get { return dataFileName; }
+		//}
+		/// <summary>
+		/// Summary til orders. dokumentation.
+		/// </summary>
+		private List<Order> orders = new List<Order>();
+		/// <summary>
+		/// Summary til storageList. dokumentation.
+		/// </summary>
+		private ObservableCollection<Connectors> storageList = new ObservableCollection<Connectors>();
+		private ObservableCollection<Customer> customers = new ObservableCollection<Customer>();
+
+		public DataHandler()
+		{
+			ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+		}
 		// installer EPPlus i Package Manager Console
 		// View -> Other Windows -> Package Manager Console
 		// Text til konsollen: Install-Package EPPlus
@@ -156,7 +177,7 @@ namespace Toy2_ERP.Models
 						};
 
 						// Tilføjer connector til lagerlisten
-						Connectors.StorageList.Add(connector);
+						storageList.Add(connector);
 					}
 				}
 				else
@@ -183,14 +204,14 @@ namespace Toy2_ERP.Models
 						order.AddBoxSet(boxSet, amount);
 
 						// Tilføjer order til orders listen
-						Order.orders.Add(order);
+						orders.Add(order);
 					}
 				}
 				else
 				{
 					Console.WriteLine("Orders worksheet ikke fundet.");
 				}
-
+				
 
 				if (customersSheet != null)
 				{
@@ -217,7 +238,7 @@ namespace Toy2_ERP.Models
 						};
 
 						// Tilføjer customer til customerListen
-						Customer.customers.Add(customer);
+						customers.Add(customer);
 					}
 				}
 				else

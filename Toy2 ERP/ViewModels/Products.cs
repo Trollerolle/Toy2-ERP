@@ -7,21 +7,12 @@ using System.Threading.Tasks;
 
 namespace Toy2_ERP.ViewModels
 {
-	public class Products : INotifyPropertyChanged
+	public class Products
 	{
 		public string Name { get; set; }
 		public int ProductId { get; set; }
 		public double Cost { get; set; }
 		public int Amount { get; set; }
 
-        public event PropertyChangedEventHandler PropertyChanged;
-        protected void OnPropertyChanged(string propertyName)
-        {
-            PropertyChangedEventHandler propertyChanged = this.PropertyChanged;
-            if (propertyChanged != null)
-            {
-                propertyChanged(this, new PropertyChangedEventArgs(propertyName));
-            }
-        }
     }
 }

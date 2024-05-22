@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,10 +9,10 @@ namespace Toy2_ERP.ViewModels
 {
 	public class BoxSet : Products
 	{
-		public List<Connectors> BoxProductList { get; set; }
+		public static ObservableCollection<Connectors> BoxProductList { get; set; }
 		public BoxSet()
 		{
-			BoxProductList = new List<Connectors>();
+			BoxProductList = new ObservableCollection<Connectors>();
 		}
 
 		public void AddConnector(Connectors connectors, int amount)

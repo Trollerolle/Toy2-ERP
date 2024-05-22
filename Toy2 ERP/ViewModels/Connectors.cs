@@ -1,19 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Toy2_ERP.Models;
 
 namespace Toy2_ERP.ViewModels
 {
 	public class Connectors : Products
 	{
-		public static List<Connectors> StorageList = new List<Connectors>();
 		public double StorageValue { get; set; }
+		public DataHandler DataHandler = new DataHandler();
 		public Connectors()
 		{
 		}
-
+		/// <summary>
+		/// Til at dokumentere din kode, og dets eventuelle parametre.
+		/// </summary>
+		/// <param name="name">Navnet på connectoren</param>
+		/// <param name="cost"></param>
+		/// <param name="productId"></param>
+		/// <param name="amount"></param>
 		public Connectors(string name, double cost, int productId, int amount)
 		{
 			Name = name;
@@ -21,7 +29,7 @@ namespace Toy2_ERP.ViewModels
 			ProductId = productId;
 			Amount = amount;
 
-			StorageList.Add(this);
+			DataHandler.storageList.Add(this);
 		}
 		public void UpdateProductCost(double newCost)
 		{
@@ -29,7 +37,7 @@ namespace Toy2_ERP.ViewModels
 		}
 		public void UpdateStorageValue(double newStorageValue)
 		{
-			foreach (var item in StorageList)
+			foreach (var item in storageList)
 			{
 				StorageValue += item.Cost * item.Amount;
 			}

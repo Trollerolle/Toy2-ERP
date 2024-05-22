@@ -1,24 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Toy2_ERP.Models;
 
 namespace Toy2_ERP.ViewModels
 {
 	public class Order
 	{
+		DataHandler DataHandeler = new DataHandler();
 		private static int nextOrderId = 1;
-		public static List<Order> orders = new List<Order>();
 		public int OrderID { get; }
 		public int CustomerID { get; }
-		public List<(BoxSet boxSet, int amount)> BoxSets { get; }
+		public ObservableCollection<(BoxSet boxSet, int amount)> BoxSets { get; }
+		
+		// Listen skal laves om til en ObservableCollection fra vores model til ViewModel laget.
+		/* ObservableCollection<Order> Orders = new ObservableCollection<Order>();
+		
+		public void GetOrders(List<Order> orders)
+		{
+			ObservableCollection<Order> x = new ObservableCollection<Order>(orders);
+			Orders = x;
+		}
+		*/
 
 		public Order(int customerID)
 		{
 			OrderID = nextOrderId++;
 			CustomerID = customerID;
-			BoxSets = new List<(BoxSet, int)>();
+			BoxSets = new ObservableCollection<(BoxSet, int)>();
 		}
 
 		public Order()
@@ -27,7 +39,7 @@ namespace Toy2_ERP.ViewModels
 
 		public void AddBoxSet(BoxSet boxSet, int amount)
 		{
-			foreach (var connector in boxSet.BoxProductList)
+			foreach (var connector in BoxSet.BoxProductList)
 			{
 				bool found = false;
 				foreach (var storedConnector in Connectors.StorageList)
@@ -77,7 +89,7 @@ namespace Toy2_ERP.ViewModels
 			}
 
 			// Tilføjer connectors tilbage til lageret
-			foreach (var connector in boxSet.BoxProductList)
+			foreach (var connector in BoxSet.BoxProductList)
 			{
 				foreach (var storedConnector in Connectors.StorageList)
 				{

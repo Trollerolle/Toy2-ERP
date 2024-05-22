@@ -14,6 +14,7 @@ using Toy2_ERP.Models;
 using Toy2_ERP.ViewModels;
 using OfficeOpenXml;
 using OfficeOpenXml.Style;
+using System.IO;
 
 namespace Toy2_ERP
 {
@@ -22,14 +23,16 @@ namespace Toy2_ERP
 	/// </summary>
 	public partial class MainWindow : Window
 	{
-		private DataHandler _dataHandler = new DataHandler();
+		public DataHandler _dataHandler = new DataHandler();
 
 		public MainWindow()
 		{
-			
+			string fileName = "Toy2Lager.xlsx";
+			string Dir = Directory.GetCurrentDirectory();
+			string filePath = System.IO.Path.Combine(Dir, fileName);
+
+			_dataHandler.ReadFromExcel(filePath);
 			InitializeComponent();
-			string filepath = "Toy2Lager";
-			DataHandler.ReadFromExcel(filepath);
 		}
 
 		private void OpretOrdre_Clicked(object sender, RoutedEventArgs e)
