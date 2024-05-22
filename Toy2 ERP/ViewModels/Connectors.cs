@@ -8,6 +8,9 @@ using Toy2_ERP.Models;
 
 namespace Toy2_ERP.ViewModels
 {
+	/// <summary>
+	/// Denne her klasse skal være af objektet Connector.
+	/// </summary>
 	public class Connectors : Products
 	{
 		public double StorageValue { get; set; }
