@@ -32,7 +32,7 @@ namespace Toy2_ERP.ViewModels
 			ProductId = productId;
 			Amount = amount;
 
-			DataHandler.storageList.Add(this);
+			AddToStorageList(this);
 		}
 		public void UpdateProductCost(double newCost)
 		{
@@ -40,10 +40,15 @@ namespace Toy2_ERP.ViewModels
 		}
 		public void UpdateStorageValue(double newStorageValue)
 		{
-			foreach (var item in storageList)
+			foreach (var item in DataHandler.storageList)
 			{
 				StorageValue += item.Cost * item.Amount;
 			}
+		}
+		public void AddToStorageList(Connectors connector)
+		{
+			DataHandler.storageList.Add(connector);
+
 		}
 	}
 }

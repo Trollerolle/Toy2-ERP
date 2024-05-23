@@ -10,12 +10,12 @@ namespace Toy2_ERP.ViewModels
 {
 	public class Order
 	{
-		DataHandler DataHandeler = new DataHandler();
+		private readonly DataHandler dataHandler; 
 		private static int nextOrderId = 1;
 		public int OrderID { get; }
 		public int CustomerID { get; }
 		public ObservableCollection<(BoxSet boxSet, int amount)> BoxSets { get; }
-		
+
 		// Listen skal laves om til en ObservableCollection fra vores model til ViewModel laget.
 		/* ObservableCollection<Order> Orders = new ObservableCollection<Order>();
 		
@@ -42,7 +42,7 @@ namespace Toy2_ERP.ViewModels
 			foreach (var connector in BoxSet.BoxProductList)
 			{
 				bool found = false;
-				foreach (var storedConnector in Connectors.StorageList)
+				foreach (var storedConnector in dataHandler.storageList)
 				{
 					if (storedConnector.ProductId == connector.ProductId)
 					{
@@ -91,7 +91,7 @@ namespace Toy2_ERP.ViewModels
 			// Tilføjer connectors tilbage til lageret
 			foreach (var connector in BoxSet.BoxProductList)
 			{
-				foreach (var storedConnector in Connectors.StorageList)
+				foreach (var storedConnector in dataHandler.storageList)
 				{
 					if (storedConnector.ProductId == connector.ProductId)
 					{

@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\models\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|d:\\datamatiker\\toy2 erp ny\\toy2-erp\\toy2 erp\\viewmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|d:\\datamatiker\\toy2 erp ny\\toy2-erp\\toy2 erp\\viewmodels\\connectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\connectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|d:\\datamatiker\\toy2 erp ny\\toy2-erp\\toy2 erp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|d:\\datamatiker\\toy2 erp ny\\toy2-erp\\toy2 erp\\viewmodels\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|d:\\datamatiker\\toy2 erp ny\\toy2-erp\\toy2 erp\\viewmodels\\connectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\connectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|d:\\datamatiker\\toy2 erp ny\\toy2-erp\\toy2 erp\\viewmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|d:\\datamatiker\\toy2 erp ny\\toy2-erp\\toy2 erp\\viewmodels\\boxsets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|d:\\datamatiker\\toy2 erp ny\\toy2-erp\\toy2 erp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|d:\\datamatiker\\toy2 erp ny\\toy2-erp\\toy2 erp\\viewmodels\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|solutionrelative:toy2 erp\\viewmodels\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A760F6F9-D917-46A6-A7BD-460F2AF7F11C}|Toy2 ERP\\Toy2 ERP.csproj|d:\\datamatiker\\toy2 erp ny\\toy2-erp\\toy2 erp\\views\\lagerstatusindk\u00F8bopt\u00E6lling.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,13 +66,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Toy2 ERP\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\MainWindow.xaml.cs",
               "RelativeToolTip": "Toy2 ERP\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAYwBkAAAA2AAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T10:19:09.71Z",
               "EditorCaption": ""
@@ -85,7 +85,7 @@
               "RelativeDocumentMoniker": "Toy2 ERP\\Models\\DataHandler.cs",
               "ToolTip": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\Models\\DataHandler.cs",
               "RelativeToolTip": "Toy2 ERP\\Models\\DataHandler.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwCMAAAAvAAAA",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAvwJ0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "Toy2 ERP\\Models",
               "WhenOpened": "2024-05-12T16:14:52.769Z",
@@ -101,8 +101,7 @@
               "RelativeToolTip": "Toy2 ERP\\Views\\LagerStatusIndk\u00F8bOpt\u00E6lling.xaml.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAApwBoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T15:53:00.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T15:53:00.534Z"
             },
             {
               "$type": "Document",
@@ -113,63 +112,58 @@
               "ToolTip": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\Views\\LagerStatusIndk\u00F8bOpt\u00E6lling.xaml",
               "RelativeToolTip": "Toy2 ERP\\Views\\LagerStatusIndk\u00F8bOpt\u00E6lling.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T15:30:34.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T15:30:34.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Toy2 ERP\\MainWindow.xaml",
               "ToolTip": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\MainWindow.xaml",
               "RelativeToolTip": "Toy2 ERP\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T10:19:11.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T10:19:11.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Connectors.cs",
               "DocumentMoniker": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\ViewModels\\Connectors.cs",
               "RelativeDocumentMoniker": "Toy2 ERP\\ViewModels\\Connectors.cs",
               "ToolTip": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\ViewModels\\Connectors.cs",
               "RelativeToolTip": "Toy2 ERP\\ViewModels\\Connectors.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAhAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAhwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T10:20:47.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T10:20:47.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\ViewModels\\Order.cs",
               "RelativeDocumentMoniker": "Toy2 ERP\\ViewModels\\Order.cs",
               "ToolTip": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\ViewModels\\Order.cs",
               "RelativeToolTip": "Toy2 ERP\\ViewModels\\Order.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBoAAAAEAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T10:21:03.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T10:21:03.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\ViewModels\\Customer.cs",
               "RelativeDocumentMoniker": "Toy2 ERP\\ViewModels\\Customer.cs",
               "ToolTip": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\ViewModels\\Customer.cs",
               "RelativeToolTip": "Toy2 ERP\\ViewModels\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T10:19:41.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T10:19:41.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "BoxSets.cs",
               "DocumentMoniker": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\ViewModels\\BoxSets.cs",
               "RelativeDocumentMoniker": "Toy2 ERP\\ViewModels\\BoxSets.cs",
@@ -177,12 +171,11 @@
               "RelativeToolTip": "Toy2 ERP\\ViewModels\\BoxSets.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T10:21:19.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T10:21:19.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Products.cs",
               "DocumentMoniker": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\ViewModels\\Products.cs",
               "RelativeDocumentMoniker": "Toy2 ERP\\ViewModels\\Products.cs",
@@ -190,8 +183,7 @@
               "RelativeToolTip": "Toy2 ERP\\ViewModels\\Products.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T10:20:05.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T10:20:05.98Z"
             },
             {
               "$type": "Document",
@@ -203,8 +195,7 @@
               "RelativeToolTip": "Toy2 ERP\\Views\\BestillingerOpretOrdre.xaml.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAApwBgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T11:46:24.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T11:46:24.444Z"
             },
             {
               "$type": "Document",
@@ -215,8 +206,7 @@
               "ToolTip": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\Views\\BestillingerOpretOrdre.xaml",
               "RelativeToolTip": "Toy2 ERP\\Views\\BestillingerOpretOrdre.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T11:41:29.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T11:41:29.414Z"
             },
             {
               "$type": "Document",
@@ -227,8 +217,7 @@
               "ToolTip": "D:\\Datamatiker\\Toy2 ERP ny\\Toy2-ERP\\Toy2 ERP\\App.xaml",
               "RelativeToolTip": "Toy2 ERP\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-12T12:22:30.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T12:22:30.589Z"
             }
           ]
         }

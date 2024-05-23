@@ -22,12 +22,12 @@ namespace Toy2_ERP.Models
 		/// <summary>
 		/// Summary til orders. dokumentation.
 		/// </summary>
-		private List<Order> orders = new List<Order>();
+		public List<Order> orders = new List<Order>();
 		/// <summary>
 		/// Summary til storageList. dokumentation.
 		/// </summary>
-		private ObservableCollection<Connectors> storageList = new ObservableCollection<Connectors>();
-		private ObservableCollection<Customer> customers = new ObservableCollection<Customer>();
+		public List<Connectors> storageList = new List<Connectors>();
+		public List<Customer> customers = new List<Customer>();
 
 		public DataHandler()
 		{
@@ -131,7 +131,7 @@ namespace Toy2_ERP.Models
 			int customersRow = 2;
 			foreach (var customer in customers)
 			{
-				customersSheet.Cells[customersRow, 1].Value = customer.CustomerID;
+				customersSheet.Cells[customersRow, 1].Value = customer.CustomerId;
 				customersSheet.Cells[customersRow, 2].Value = customer.CompanyName;
 				customersSheet.Cells[customersRow, 3].Value = customer.ContactPerson;
 				customersSheet.Cells[customersRow, 4].Value = customer.Telephone;
@@ -150,102 +150,107 @@ namespace Toy2_ERP.Models
 
 			using (ExcelPackage package = new ExcelPackage(file))
 			{
-				ExcelWorksheet storageSheet = package.Workbook.Worksheets["StorageList"];
-				ExcelWorksheet ordersSheet = package.Workbook.Worksheets["Orders"];
-				ExcelWorksheet customersSheet = package.Workbook.Worksheets["Customers"];
+				storageList = ReadStorageSheet(package.Workbook.Worksheets["StorageList"]);
+				orders = ReadOrdersSheet(package.Workbook.Worksheets["Orders"]);
+				customers = ReadCustomersSheet(package.Workbook.Worksheets["Customers"]);
 
-				if (storageSheet != null)
+			}
+		}
+
+		private List<Connectors> ReadStorageSheet(ExcelWorksheet storageSheet)
+		{
+			var storageList = new List<Connectors>();
+
+			if (storageSheet != null)
+			{
+				int rowCount = storageSheet.Dimension.Rows;
+				int columnCount = storageSheet.Dimension.Columns;
+
+				for (int row = 2; row <= rowCount; row++) 
 				{
-					int rowCount = storageSheet.Dimension.Rows;
-					int columnCount = storageSheet.Dimension.Columns;
+					string name = storageSheet.Cells[row, 1].GetValue<string>();
+					int productId = storageSheet.Cells[row, 2].GetValue<int>();
+					double cost = storageSheet.Cells[row, 3].GetValue<double>();
+					int amount = storageSheet.Cells[row, 4].GetValue<int>();
 
-					// Kører over hver linje i arket.
-					for (int row = 2; row <= rowCount; row++) // Første row indeholder attribut navne
+					Connectors connector = new Connectors
 					{
-						string name = storageSheet.Cells[row, 1].GetValue<string>();
-						int productId = storageSheet.Cells[row, 2].GetValue<int>();
-						double cost = storageSheet.Cells[row, 3].GetValue<double>();
-						int amount = storageSheet.Cells[row, 4].GetValue<int>();
+						Name = name,
+						ProductId = productId,
+						Cost = cost,
+						Amount = amount
+					};
 
-						// instantiere connector ud fra den læste data.
-						Connectors connector = new Connectors
-						{
-							Name = name,
-							ProductId = productId,
-							Cost = cost,
-							Amount = amount
-						};
-
-						// Tilføjer connector til lagerlisten
-						storageList.Add(connector);
-					}
-				}
-				else
-				{
-					Console.WriteLine("Storage worksheet ikke fundet.");
-				}
-
-				if (ordersSheet != null)
-				{
-					int rowCount = ordersSheet.Dimension.Rows;
-					int columnCount = ordersSheet.Dimension.Columns;
-
-					// Kører over hver linje i arket.
-					for (int row = 2; row <= rowCount; row++) // Første row indeholder attribut navne
-					{
-						int orderId = ordersSheet.Cells[row, 1].GetValue<int>();
-						int customerId = ordersSheet.Cells[row, 2].GetValue<int>();
-						string boxSetName = ordersSheet.Cells[row, 3].GetValue<string>();
-						int amount = ordersSheet.Cells[row, 4].GetValue<int>();
-
-						// instantiere order ud fra den læste data.
-						Order order = new Order(customerId);
-						BoxSet boxSet = new BoxSet { Name = boxSetName };
-						order.AddBoxSet(boxSet, amount);
-
-						// Tilføjer order til orders listen
-						orders.Add(order);
-					}
-				}
-				else
-				{
-					Console.WriteLine("Orders worksheet ikke fundet.");
-				}
-				
-
-				if (customersSheet != null)
-				{
-					int rowCount = customersSheet.Dimension.Rows;
-					int columnCount = customersSheet.Dimension.Columns;
-
-					// Kører over hver linje i arket.
-					for (int row = 2; row <= rowCount; row++) // Første row indeholder attribut navne
-					{
-						int customerId = customersSheet.Cells[row, 1].GetValue<int>();
-						string companyName = customersSheet.Cells[row, 2].GetValue<string>();
-						string contactPerson = customersSheet.Cells[row, 3].GetValue<string>();
-						int telephone = customersSheet.Cells[row, 4].GetValue<int>();
-						string email = customersSheet.Cells[row, 5].GetValue<string>();
-
-						// instantiere customer ud fra den læste data.
-						Customer customer = new Customer
-						{
-							CustomerID = customerId,
-							CompanyName = companyName,
-							ContactPerson = contactPerson,
-							Telephone = telephone,
-							Email = email
-						};
-
-						// Tilføjer customer til customerListen
-						customers.Add(customer);
-					}
-				}
-				else
-				{
-					Console.WriteLine("Customers worksheet ikke funder.");
+					storageList.Add(connector);
 				}
 			}
+			else
+			{
+				Console.WriteLine("Storage worksheet ikke fundet.");
+			}
+
+			return storageList;
+		}
+
+		private List<Order> ReadOrdersSheet(ExcelWorksheet ordersSheet)
+		{
+			var orders = new List<Order>();
+
+			if (ordersSheet != null)
+			{
+				int rowCount = ordersSheet.Dimension.Rows;
+				int columnCount = ordersSheet.Dimension.Columns;
+
+				for (int row = 2; row <= rowCount; row++) 
+				{
+					int orderId = ordersSheet.Cells[row, 1].GetValue<int>();
+					int customerId = ordersSheet.Cells[row, 2].GetValue<int>();
+					string boxSetName = ordersSheet.Cells[row, 3].GetValue<string>();
+					int amount = ordersSheet.Cells[row, 4].GetValue<int>();
+
+					Order order = new Order(customerId);
+					BoxSet boxSet = new BoxSet { Name = boxSetName };
+					order.AddBoxSet(boxSet, amount);
+
+					orders.Add(order);
+				}
+			}
+			else
+			{
+				Console.WriteLine("Orders worksheet ikke fundet.");
+			}
+
+			return orders;
+		}
+
+		private List<Customer> ReadCustomersSheet(ExcelWorksheet customersSheet)
+		{
+			var customers = new List<Customer>();
+
+			if (customersSheet != null)
+			{
+				int rowCount = customersSheet.Dimension.Rows;
+				int columnCount = customersSheet.Dimension.Columns;
+
+				for (int row = 2; row <= rowCount; row++) 
+				{
+					int customerId = customersSheet.Cells[row, 1].GetValue<int>();
+					string companyName = customersSheet.Cells[row, 2].GetValue<string>();
+					string contactPerson = customersSheet.Cells[row, 3].GetValue<string>();
+					int telephone = customersSheet.Cells[row, 4].GetValue<int>();
+					string email = customersSheet.Cells[row, 5].GetValue<string>();
+
+					Customer customer = new Customer(companyName, customerId, contactPerson, telephone, email);
+
+					customers.Add(customer);
+				}
+			}
+			else
+			{
+				Console.WriteLine("Customers worksheet ikke funder.");
+			}
+
+			return customers;
 		}
 	}
 }
